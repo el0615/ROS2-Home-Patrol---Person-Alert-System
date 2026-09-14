@@ -1,0 +1,16 @@
+# ROS2 build files
+navigation_ws/build/
+navigation_ws/install/
+navigation_ws/log/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.swp
+*~
