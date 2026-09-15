@@ -1,0 +1,36 @@
+waypoints:
+  - id: WP1
+    position: {x: -5.9730, y: 3.7337}
+    orientation: {z: 0.0097, w: 1.0000}
+
+  - id: WP2
+    position: {x: -1.1814, y: 3.6805}
+    orientation: {z: -0.7089, w: 0.7053}
+
+  - id: WP3
+    position: {x: 6.4592, y: 0.7496}
+    orientation: {z: 0.7053, w: 0.7089}
+
+  - id: WP4
+    position: {x: 6.4476, y: 4.2559}
+    orientation: {z: 0.9999, w: 0.0131}
+
+  - id: WP5
+    position: {x: 0.6034, y: 4.1683}
+    orientation: {z: -0.7089, w: 0.7053}
+
+  - id: WP6
+    position: {x: 1.4159, y: 3.0539}
+    orientation: {z: 0.7053, w: 0.7089}
+
+  - id: WP7
+    position: {x: 2.0374, y: 4.6286}
+    orientation: {z: -0.0025, w: 1.0000}
+
+  - id: WP8
+    position: {x: 3.4496, y: 0.7355}
+    orientation: {z: -0.0025, w: 1.0000}
+
+  - id: WP9
+    position: {x: 5.5047, y: -3.1609}
+    orientation: {z: -0.7089, w: 0.7053}
