@@ -43,6 +43,7 @@ setup(
 
     entry_points={
         'console_scripts': [
+            'waypoint_patrol = home_patrol.waypoint_patrol:main',
         ],
     },
 )

@@ -12,6 +12,9 @@
   <depend>launch_ros</depend>
   <depend>gazebo_ros</depend>
   <depend>turtlebot3_gazebo</depend>
+  <depend>geometry_msgs</depend>
+  <depend>nav2_msgs</depend>
+  <depend>action_msgs</depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
