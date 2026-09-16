@@ -27,6 +27,10 @@ def generate_launch_description():
         'gazebo_ros'
     )
 
+    home_patrol_dir = get_package_share_directory(
+    'home_patrol'
+    )
+
     # TurtleBot3 House world
     world_path = os.path.join(
         turtlebot3_gazebo_dir,
@@ -34,11 +38,11 @@ def generate_launch_description():
         'turtlebot3_house.world'
     )
 
-    # TurtleBot3 Waffle model
+   # Custom TurtleBot3 Waffle model
     model_path = os.path.join(
-        turtlebot3_gazebo_dir,
+        home_patrol_dir,
         'models',
-        'turtlebot3_waffle',
+        'home_patrol_waffle',
         'model.sdf'
     )
 
