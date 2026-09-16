@@ -14,3 +14,74 @@ __pycache__/
 # Temporary files
 *.swp
 *~
+
+# Colcon
+
+**/COLCON_IGNORE
+
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+
+*.swp
+*.swo
+*~
+
+# ROS2 build artifacts
+
+build/
+install/
+log/
+
+# Python virtual environment
+
+.venv/
+venv/
+env/
+
+# Python cache
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Model and large generated files
+
+*.pt
+
+# =========================
+# Generated experiment results
+# =========================
+
+results/
